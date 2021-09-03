@@ -1,3 +1,1 @@
-# READ ME
-
-This is my README file.
+# Data 444 - Agent Based Modeling 
